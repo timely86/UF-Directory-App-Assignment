@@ -1,8 +1,22 @@
+
 #searchBar {
   margin: 15px 10px;
+
+}
+.custom-element {
+  color: gray("100");
+  background-color: theme-color("dark");
 }
 
 .tableWrapper {
+  color: blue;
   max-height: 400px;
   overflow: auto;
+
+}
+.jumbotron {
+  color: orange;
+}
+.container {
+  color: blue;
 }
